@@ -15,6 +15,7 @@ memberGmails: 為組員進入google classroom的gmail
 knitr::opts_chunk$set(echo = TRUE, eval=F)
 library(rmd2drake)
 library(drake)
+library(devtools)
 ```
 
 ## makecondition
